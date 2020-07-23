@@ -8,9 +8,9 @@ const headerProps = {
 }
 
 export default class UserCrud extends Component {
-    reder() {
+    render() {
         return(
-            <Main {headerProps}>
+            <Main {...headerProps}>
                 Cadastro de Usuário
             </Main>
         )
