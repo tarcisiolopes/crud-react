@@ -1,11 +1,24 @@
 {
-    "users": [{
-        "id": 1,
-        "name" : "Tarcisio Lopes",
-        "email": "tarcisiolopesgomes@gmail.com"
-    },{
-        "id": 2,
-        "name": "Pollyana Lamounier",
-        "email": "pollyanalam@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Tarcisio Lopes",
+      "email": "tarcisiolopesgomes@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Pollyana Lamounier",
+      "email": "pollyanalam@gmail.com"
+    },
+    {
+      "name": "Ana Silva",
+      "email": "anasilva@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Iracy Lopes",
+      "email": "iracylopes@gmail.com",
+      "id": 4
+    }
+  ]
 }
